@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const BACKEND_URL = 'http://localhost:5000/api';
+const BACKEND_URL = 'https://backend-koode.onrender.com';
 
 // ==================== MAIN APP ====================
 export default function KoodeApp() {
